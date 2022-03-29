@@ -1,0 +1,12 @@
+body {
+    background: white;
+  }
+  p {
+    color: black;
+  }
+  h1 {
+    font-weight: bold;
+  }
+  h4 {
+    font-style: italic;
+  }
